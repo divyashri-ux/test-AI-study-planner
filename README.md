@@ -1,2 +1,2 @@
-# test-AI-study-planner
-test-AI study planner
+# Student learning progress tracker
+student learning progress tracker
